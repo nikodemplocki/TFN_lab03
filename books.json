@@ -1,0 +1,50 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "category": "Dystopia",
+        "description": "Dystopijna powieść osadzona w totalitarnym społeczeństwie, w którym rząd kontroluje każdą sferę życia."
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "category": "Klasyka",
+        "description": "Powieść o miłości, marzeniach i społeczeństwie w Ameryce lat 20. XX wieku."
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "category": "Fantasy",
+        "description": "Pierwsza część serii o przygodach młodego czarodzieja Harry'ego Pottera."
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "description": "Opowieść o Bilbo Bagginsie, który wyrusza w podróż pełną przygód, by pomóc grupie krasnoludów."
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "category": "Literatura amerykańska",
+        "description": "Powieść o walce z uprzedzeniami rasowymi w małym miasteczku w Alabamie."
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "category": "Romantyzm",
+        "description": "Klasyczna powieść o miłości, rodzinie i społecznych normach w Anglii na początku XIX wieku."
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "category": "Literatura młodzieżowa",
+        "description": "Powieść opowiadająca o buncie i zagubieniu młodego człowieka w Ameryce lat 50."
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "category": "Fikcja",
+        "description": "Opowieść o młodym pasterzu, który wyrusza w poszukiwaniu swojego przeznaczenia."
+    }
+]
